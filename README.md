@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnsmanaswini
-- 👀 I’m interested in ...Java Development
-- 🌱 I’m currently learning ...Java
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
